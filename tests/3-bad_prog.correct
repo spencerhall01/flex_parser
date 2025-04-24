@@ -1,0 +1,4 @@
+INFO: Using the 3-bad_prog.pas file for input
+
+***ERROR:
+On line number 10, near |WHAT|, error type 104: identifier not declared

@@ -1,0 +1,4 @@
+INFO: Using the 6-lotsovar.pas file for input
+
+***ERROR:
+On line number 109, near |;|, error type 101: identifier declared twice
